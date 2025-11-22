@@ -71,4 +71,4 @@ VORA addresses these challenges by providing a **digital companion** that helps 
 ## How to Get Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/VORA.git
+   https://github.com/VB701k/VORA.git
